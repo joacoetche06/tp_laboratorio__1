@@ -101,7 +101,7 @@ int main()
         break;
 
         default:
-
+        	printf("Gracias por usar nuestro programa!");
         break;
     }
     }while(menu != 6);
